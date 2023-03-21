@@ -1,0 +1,50 @@
+{
+	"storyName": "Camping With Da Bois",
+	"difficulties": "Easily Hard, Normally Hard, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Hey Chris",
+			"nick",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"How Dietz Nuts",
+			"max",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Taste?",
+			"cent",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "campWeek"
+}
